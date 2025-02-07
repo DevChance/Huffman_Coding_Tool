@@ -44,7 +44,7 @@ This C++ implementation of Huffman coding applies **binary tree-based encoding**
 ## 🚀 Getting Started  
 
 ### **1️⃣ Clone the Repository**
-```bash
+```bash```
 
 ---
 
