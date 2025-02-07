@@ -45,6 +45,25 @@ This C++ implementation of Huffman coding applies **binary tree-based encoding**
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/Huffman-Coding-Tool.git
-cd Huffman-Coding-Tool
+
+---
+
+## 🛠️ Technologies Used
+- **Programming Language**: C++
+- **Data Structures**: Binary Trees, Priority Queues
+- **Algorithm**: Huffman Coding
+
+---
+
+## 💻 Development Environment
+- **IDE**: Visual Studio Code
+- **Compiler**: GCC (g++)
+- **OS**: Windows 10 / Linux
+
+---
+
+## 🏆 Future Improvements
+- Implement **adaptive Huffman coding** for real-time compression.
+- Optimize storage format for even higher compression ratios.
+- Add **multi-threading support** for parallelized encoding.
 
