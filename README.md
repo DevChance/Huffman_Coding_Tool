@@ -41,13 +41,6 @@ This C++ implementation of Huffman coding applies **binary tree-based encoding**
 
 ---
 
-## 🚀 Getting Started  
-
-### **1️⃣ Clone the Repository**
-```bash```
-
----
-
 ## 🛠️ Technologies Used
 - **Programming Language**: C++
 - **Data Structures**: Binary Trees, Priority Queues
